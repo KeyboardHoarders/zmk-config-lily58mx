@@ -18,8 +18,8 @@
 
 # keymap
 
+<img width="984" height="1918" alt="my_keymap-15" src="https://github.com/user-attachments/assets/24403627-767e-4d4b-b059-afee95e613e0" />
 
-<img width="984" height="1173" alt="414038139-877a66fd-3059-4b77-a9e4-e73b154922ca" src="https://github.com/user-attachments/assets/2a5678f7-cc8e-49db-ae4c-32e0522eabca" />
 
 
 # Bluetooth
