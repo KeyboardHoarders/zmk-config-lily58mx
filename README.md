@@ -18,7 +18,8 @@
 
 # keymap
 
-<img width="984" height="1918" alt="my_keymap-15" src="https://github.com/user-attachments/assets/24403627-767e-4d4b-b059-afee95e613e0" />
+<img width="984" height="1918" alt="Lilymx26" src="https://github.com/user-attachments/assets/29ea4672-eed2-41b1-a733-8d27b97a46a0" />
+
 
 
 
